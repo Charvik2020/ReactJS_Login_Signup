@@ -50,4 +50,8 @@ import express from 'express';
    }
  });
  
+<<<<<<< HEAD
  export default router;
+=======
+ export default router;
+>>>>>>> origin/master
